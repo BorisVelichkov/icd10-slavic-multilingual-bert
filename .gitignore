@@ -1,0 +1,6 @@
+/notebooks/.ipynb_checkpoints/*
+/notebooks/cache_dir/*
+/notebooks/*.log
+/runs/*
+/output/*
+/notebooks/bulstem-py/*
