@@ -1,4 +1,4 @@
-# Slavic Multilingual BERT
+# Slavic Multilingual BERT for ICD10 Codes
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
